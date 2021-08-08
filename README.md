@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React js, Express js, Node js, Redux js, PostgreSQL, Sequelize, Mongoose, MongoDB, React Native, GraphQL**
 
-- 📫 How to reach me **arayap@gmail.com**
+- 📫 How to reach me **arayap812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
